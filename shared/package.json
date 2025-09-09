@@ -1,0 +1,20 @@
+{
+  "name": "trending-commerce-hub-shared",
+  "version": "1.0.0",
+  "description": "Shared utilities and types for Trending Commerce Hub",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Shared utilities build completed'",
+    "test": "jest"
+  },
+  "keywords": [
+    "shared",
+    "utilities",
+    "types"
+  ],
+  "author": "Trending Commerce Hub Team",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
