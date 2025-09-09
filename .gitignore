@@ -66,3 +66,5 @@ firebase-debug.log
 
 # Serverless
 .serverless/
+
+awsoptimiser.pem
